@@ -1,0 +1,29 @@
+PayerManagement-
+GetList
+Testcase 1- Display list sucessfully
+Testcase 2- Display on data found with NotFound
+
+Create new Payer
+Testcase 1- Sucessfully added
+Testcase -2 Payer Already existy Bad Request
+Testcase -3 Model Validation
+
+
+PatientManagement
+GetList
+Testcase 1- Display list sucessfully
+Testcase 2- Display on data found with NotFound
+
+Create new Patient
+Testcase 1- Sucessfully added
+Testcase -2 Patient Already existy Bad Request
+Testcase -3 Model Validation
+
+Update Patient
+Testcase 1- Updated Successfully
+Testcase -2 Payer Not Found Bad Request
+Testcase -3 Model Validation
+
+Delete Patient
+Testcase 1- Updated Successfully
+Testcase -2 Patient Not Found Bad Request
