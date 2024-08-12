@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "d84vX5bFez+SCww1fLRoJmQs7bb+9Xh1bO+Gei2R8Zw=",
+  "Source": "PayerAPI",
+  "BasePath": "_content/PayerAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

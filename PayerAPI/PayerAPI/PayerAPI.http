@@ -1,0 +1,6 @@
+@PayerAPI_HostAddress = http://localhost:5105
+
+GET {{PayerAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
